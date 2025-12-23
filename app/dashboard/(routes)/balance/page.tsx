@@ -31,8 +31,8 @@ export default function BalancePage() {
   
   const vodafoneCashNumber = "01066582727";
   const etisalatCashNumber = "01147533391";
-  const whatsappNumber = "01066582727";
-  const whatsappLink = `https://wa.me/201066582727`;
+  const whatsappNumber = "01553383388";
+  const whatsappLink = `https://wa.me/201553383388`;
 
   useEffect(() => {
     fetchBalance();
